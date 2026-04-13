@@ -40,7 +40,7 @@ and geographic regions.
 ## Project Description
 Dataset: San Francisco Air Traffic Passenger Statistics (data.sfgov.org)
 - 39,588 records, 15 variables
-- Covers July 1999 through 2022
+- Covers July 1999 through 2026
 - Key variables: airline, terminal, boarding area, geo region, 
   activity type, passenger count
 
