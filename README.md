@@ -15,7 +15,7 @@ Program at the University of San Diego.
 ## Project Intro/Objective
 The main purpose of this project is to classify air traffic volume at 
 San Francisco International Airport as high or low based on historical 
-passenger data spanning 1999–2022. This analysis aims to identify key 
+passenger data spanning 1999–2026. This analysis aims to identify key 
 factors that drive passenger traffic levels across airlines, terminals, 
 and geographic regions.
 
@@ -48,7 +48,7 @@ Target variable: traffic_level (High = top 25% of passenger count, Low = bottom 
 
 Questions being explored:
 - What factors best predict high vs. low traffic volume?
-- How have traffic patterns changed over time (including COVID impact)?
+- How have traffic patterns changed over time?
 - Which airlines, terminals, and regions drive the most traffic?
 
 ## License
@@ -56,4 +56,4 @@ Open Data - City and County of San Francisco
 
 ## Acknowledgments
 - San Francisco Open Data Portal
-- University of San Diego ADS Program
+- University of San Diego Master's of Applied Data Science Program
